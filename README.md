@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Creative Launchers!
 
-You can use the [editor on GitHub](https://github.com/Ashok-pandey/website-and-marketin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello. I'm Ashok, your first person to design maekrting.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
